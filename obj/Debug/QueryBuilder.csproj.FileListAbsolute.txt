@@ -1,0 +1,10 @@
+C:\Development\Prototype\ScanworksServiceFramework\QueryBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Prototype\ScanworksServiceFramework\QueryBuilder\bin\Debug\QueryBuilder.dll
+C:\Development\Prototype\ScanworksServiceFramework\QueryBuilder\bin\Debug\QueryBuilder.pdb
+C:\Development\Prototype\ScanworksServiceFramework\QueryBuilder\obj\Debug\QueryBuilder.dll
+C:\Development\Prototype\ScanworksServiceFramework\QueryBuilder\obj\Debug\QueryBuilder.pdb
+C:\Development\Scanworks 7\ScanworksServiceFramework\ScanworksService\QueryBuilder\bin\Debug\QueryBuilder.dll
+C:\Development\Scanworks 7\ScanworksServiceFramework\ScanworksService\QueryBuilder\bin\Debug\QueryBuilder.pdb
+C:\Development\Scanworks 7\ScanworksServiceFramework\ScanworksService\QueryBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Scanworks 7\ScanworksServiceFramework\ScanworksService\QueryBuilder\obj\Debug\QueryBuilder.dll
+C:\Development\Scanworks 7\ScanworksServiceFramework\ScanworksService\QueryBuilder\obj\Debug\QueryBuilder.pdb

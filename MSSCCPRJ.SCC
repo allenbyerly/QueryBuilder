@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[QueryBuilder.csproj]
+SCC_Aux_Path = http://sourceext.ensyncsolutions.net:7070/VaultService|:2
+SCC_Project_Name = $/Scanworks 7/ScanworksServiceFramework/ScanworksService/QueryBuilder
